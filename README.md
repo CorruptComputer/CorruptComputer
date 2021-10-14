@@ -26,5 +26,5 @@ If you want to keep up with what I'm doing, [just give a follow](https://github.
 ### Ways to get in touch
 - Email: nickolas@gupton.xyz
 - LinkedIn: [Nickolas Gupton](https://www.linkedin.com/in/nickolasgupton/)
-- Discord: CorruptComputer#2956
+- Discord: CorruptComputer#0001
 - Twitter: [@CorruptComputer](https://twitter.com/CorruptComputer)
