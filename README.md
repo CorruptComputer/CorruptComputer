@@ -8,7 +8,7 @@ However I absolutely love Rust, Python, Java, JavaScript, and C++ for my own per
 If you want to keep up with what I'm doing, [just give a follow](https://github.com/users/follow?target=CorruptComputer)!
 
 ### Some of my favorite repos
-- https://github.com/CorruptComputer/CorruptComputer.GitHub.io
+- https://github.com/CorruptComputer/home
   - This is my personal website, you can view it here: https://nickolas.gupton.xyz
 - https://github.com/CorruptComputer/Officer-Beepsky
   - Officer Beepsky is Discord bot that lets you play music and play some basic games.
@@ -16,8 +16,6 @@ If you want to keep up with what I'm doing, [just give a follow](https://github.
   - ProtonDB Tags lets you import game ratings from ProtonDB into your Steam library via tags.
 - https://github.com/CorruptComputer/ASU-Team-Juice-Compiler
   - Myself and one other person wrote this compiler for our senior level compilers class. 
-- https://github.com/CorruptComputer/ASU-Not-Nim
-  - !Nim is a game of mathematical strategy, the AI does not play fair though and will never let you win if you're not careful!
 
 ### Some interesting stats
 
