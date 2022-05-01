@@ -4,7 +4,7 @@
 
 I'm a Software Engineer working for Capgemini in their Financial Services division, which basically means I get contracted out by them to work with Financial institutions in the US. 
 Day-to-day I mostly work with AWS, C#, ASP.NET, .NET Framework, .NET Core, JavaScript, TypeScript, and Angular. 
-However I absolutely love Rust, Python, Java, JavaScript, and C++ for my own personal projects and you will probably see me use those in most of my repos. 
+However I absolutely love Python, Java, JavaScript, and C++ for my own personal projects and you will probably see me use those in most of my repos. 
 If you want to keep up with what I'm doing, [just give a follow](https://github.com/users/follow?target=CorruptComputer)!
 
 ### Some of my favorite repos
@@ -26,3 +26,4 @@ If you want to keep up with what I'm doing, [just give a follow](https://github.
 - LinkedIn: [Nickolas Gupton](https://www.linkedin.com/in/nickolasgupton/)
 - Discord: CorruptComputer#0001
 - Twitter: [@CorruptComputer](https://twitter.com/CorruptComputer)
+- Mastodon: [@CorruptComputer@mastodon.social](https://mastodon.social/web/@CorruptComputer)
