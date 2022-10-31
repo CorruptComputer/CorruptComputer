@@ -26,4 +26,4 @@ If you want to keep up with what I'm doing, [just give a follow](https://github.
 - LinkedIn: [Nickolas Gupton](https://www.linkedin.com/in/nickolasgupton/)
 - Discord: CorruptComputer#0001
 - Twitter: [@CorruptComputer](https://twitter.com/CorruptComputer)
-- Mastodon: <a rel="me" href="https://fosstodon.org/@CorruptComputer">@CorruptComputer@fosstodon.org</a>
+- Mastodon: [@CorruptComputer@fosstodon.org](https://fosstodon.org/@CorruptComputer)
