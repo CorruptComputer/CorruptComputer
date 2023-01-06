@@ -2,7 +2,7 @@
 
 ### What do I do?
 
-I'm a Software Engineer working for Irth Solutions. 
+I'm a Software Engineer working for [Irth Solutions](https://www.irthsolutions.com). 
 Day-to-day I mostly work with C#, however I absolutely love Python, Java, JavaScript, and C++ for my own personal projects and you will probably see me use those in most of my repos. 
 If you want to keep up with what I'm doing, [just give a follow](https://github.com/users/follow?target=CorruptComputer)!
 
