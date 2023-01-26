@@ -2,11 +2,9 @@
 
 ### What do I do?
 
-I'm a Software Engineer working for [Irth Solutions](https://www.irthsolutions.com). 
-Day-to-day I mostly work with C#, however I absolutely love Python, Java, JavaScript, and C++ for my own personal projects and you will probably see me use those in most of my repos. 
-If you want to keep up with what I'm doing, [just give a follow](https://github.com/users/follow?target=CorruptComputer)!
+I'm a Software Engineer working for [Irth Solutions](https://www.irthsolutions.com). Day-to-day I mostly work with C# and ASP.NET, however I also regularly use Python, Java, JavaScript, and C++ for my own personal projects. If you want to keep up with what I'm doing, [just give a follow](https://github.com/users/follow?target=CorruptComputer)!
 
-### Some of my favorite repos
+### My Favorite Repos
 - https://github.com/CorruptComputer/home
   - This is my personal website, you can view it here: https://nickolas.gupton.xyz
 - https://github.com/CorruptComputer/Officer-Beepsky
@@ -14,15 +12,16 @@ If you want to keep up with what I'm doing, [just give a follow](https://github.
 - https://github.com/CorruptComputer/ProtonDB-Tags
   - ProtonDB Tags lets you import game ratings from ProtonDB into your Steam library via tags.
 - https://github.com/CorruptComputer/ASU-Team-Juice-Compiler
-  - Myself and one other person wrote this compiler for our senior level compilers class. 
+  - Myself and one other person wrote this compiler for our senior level compilers class.
 
-### Some interesting stats
+### My GitHub Stats
 
-[![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CorruptComputer&count_private=true&show_icons=true&theme=dark)](https://github.com/CorruptComputer) [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=CorruptComputer&count_private=true&show_icons=true&theme=dark)](https://github.com/CorruptComputer) 
+![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CorruptComputer&count_private=true&show_icons=true&theme=onedark)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=CorruptComputer&count_private=true&show_icons=true&theme=onedark)
+![My GitHub Achievements](https://github-profile-trophy.vercel.app/?username=CorruptComputer&theme=onedark)
 
 ### Ways to get in touch
 - Email: nickolas@gupton.xyz
 - LinkedIn: [Nickolas Gupton](https://www.linkedin.com/in/nickolasgupton/)
 - Discord: CorruptComputer#0001
-- Twitter: [@CorruptComputer](https://twitter.com/CorruptComputer)
 - Mastodon: [@CorruptComputer@fosstodon.org](https://fosstodon.org/@CorruptComputer)
