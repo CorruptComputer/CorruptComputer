@@ -2,7 +2,7 @@
 
 ### What do I do?
 
-I'm a Software Engineer working for [Irth Solutions](https://www.irthsolutions.com). Day-to-day I mostly work with C# and ASP.NET, however I also regularly use Python, Java, JavaScript, and C++ for my own personal projects. If you want to keep up with what I'm doing, [just give a follow](https://github.com/users/follow?target=CorruptComputer)!
+I'm a Software Engineer working for [Irth](https://www.irth.com). Day-to-day I mostly work with C# and ASP.NET, however I also regularly use Python, Java, JavaScript, and C++ for my own personal projects. If you want to keep up with what I'm doing, [just give a follow](https://github.com/users/follow?target=CorruptComputer)!
 
 ### My GitHub Stats
 
@@ -14,4 +14,3 @@ I'm a Software Engineer working for [Irth Solutions](https://www.irthsolutions.c
 - Email: nickolas@gupton.xyz
 - LinkedIn: [Nickolas Gupton](https://www.linkedin.com/in/nickolasgupton/)
 - Discord: @corruptcomputer
-- Mastodon: [@CorruptComputer@fosstodon.org](https://fosstodon.org/@CorruptComputer)
