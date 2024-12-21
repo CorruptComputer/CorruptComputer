@@ -8,7 +8,6 @@ I'm a Software Engineer working for [Irth](https://www.irth.com). Day-to-day I m
 
 ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CorruptComputer&count_private=true&show_icons=true&theme=onedark)
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=CorruptComputer&count_private=true&show_icons=true&theme=onedark)
-![My GitHub Achievements](https://github-profile-trophy.vercel.app/?username=CorruptComputer&theme=onedark)
 
 ### Ways to get in touch
 - Email: nickolas@gupton.xyz
